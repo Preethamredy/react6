@@ -8,13 +8,9 @@ const Contact = () => {
 			<p>I'm always open to new opportunities and collaborations.</p>
 			<ul>
 				<li>
-					<strong>Email:</strong>{" "}
-					<a href="ntrspidey@gmail.com">Email</a>
-				</li>
-				<li>
 					<strong>GitHub:</strong>{" "}
 					<a
-						href="https://github.com/Badrinath82"
+						href="https://github.com/Preethamredy"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
